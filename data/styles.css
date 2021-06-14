@@ -7,14 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.box_2 {
-}
-.shape {
-}
-.image {
-}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -56,43 +48,43 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 .paragraph {
   text-align:left;
 }
 .flow_shape {
 }
-.connector {
-}
-.icon {
+.box_1 {
 }
 .placeholder {
 }
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
 .line {
 }
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
+.label {
+  font-size:14px;
   text-align:left;
 }
 .droplist {
   color:#000000;
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.box_2 {
+}
+.ellipse {
+}
 .radio_button {
   text-align:left;
 }
 .sticky_1 {
   text-align:left;
+}
+.connector {
+}
+.icon {
+}
+.primary_button {
+  color:#FFFFFF;
 }
